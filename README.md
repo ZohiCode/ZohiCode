@@ -16,14 +16,14 @@
 ```
 print( " Hello Everyone! ✨ („• ֊ •„)੭ " )
 ```
-    
+
+
+
+# 💻 Eğitim Amaçlı Instagram Içerikler:
+
+<!-- https://ytcards.demolab.com/?id=<video ID>&title=<video+title>&lang=en&timestamp=<video publish date in Unix time format>&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=<video duration in seconds> "<video title>") -->
 <!-- BEGIN YOUTUBE-CARDS -->
-[2024 Sıfırdan yazılıma Nasıl Başlanır](https://www.instagram.com/reel/C3x0PxQocyL/)
-
-<!-- END YOUTUBE-CARDS -->
-
-#Eğitim Amaçlı Instagram Içerikler:
-
+[![2024 Sıfırdan Yazılım Öğreniyoruz](https://ytcards.demolab.com/?id=Wjj21p3tvcg&title=5+things+I+wish+I+knew+before+studying+Computer+Science&lang=en&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "2024 Sıfırdan Yazılım Öğreniyoruz")](https://www.instagram.com/reel/C3x0PxQocyL/)
 
 
  
