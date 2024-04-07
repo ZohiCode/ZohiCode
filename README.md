@@ -1,16 +1,29 @@
-### Hi there 👋
+### Hi I'm Zohi 👋
+  
+ 
+  + ⚡  Hesabın Amacı 🎯 :
+    * 🔥 _Yazılıma yeni başlayanlara ilham vermek._<br>
+    * 🤝🏻 _Öğrenmelerini kolaylaştırmak._<br>
+    * 👩🏻‍💻 _Becerilerini geliştirmelerine yardımcı olmak._<br>
+    * 📈 _Sıfırdan ileri seviyeye projeler geliştirerek pratik yapmalarını sağlamak._<br>
 
-<!--
-**ZohiCode/ZohiCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  + ⚡  Account Goals 🎯 :
+    * 🔥 _To inspire beginners in software development._<br>
+    * 🤝🏻 _To make their learning easier._<br>
+    * 👩🏻‍💻 _To help them improve their skills._<br>
+    * 📈 _To provide them with projects to practice from scratch to advanced levels._<br>
 
-Here are some ideas to get you started:
+```
+print( " Hello Everyone! ✨ („• ֊ •„)੭ " )
+```
+    
+<!-- BEGIN YOUTUBE-CARDS -->
+[2024 Sıfırdan yazılıma Nasıl Başlanır](https://www.instagram.com/reel/C3x0PxQocyL/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- END YOUTUBE-CARDS -->
+
+#Eğitim Amaçlı Instagram Içerikler:
+
+
+
+ 
